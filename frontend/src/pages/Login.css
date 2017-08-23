@@ -1,0 +1,79 @@
+.Login-header {
+  background-color: rgb(45, 98, 68);
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.Login-info {
+	text-align: center;
+}
+
+.Login-intro {
+  width: 85%;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+
+  border: 1px solid #fff;
+  border-radius: 5px;
+}
+
+.Login-content {
+	margin-top: 30px;
+	margin-left: 0.5em;
+}
+
+.Login-content div {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.Login-label {
+	display: inline-block;
+	clear: left;
+	text-align: center;
+	width: 80px;
+
+	font-size: 16px;
+  line-height: 20px;
+
+  vertical-align: middle;
+}
+
+.Login-input {
+	margin-right: 0.5em;
+	padding: 0 10px;
+	width: 140px;
+
+	border: 2px rgb(25, 78, 48) solid;
+	border-radius: 5px;
+
+	font-size: 14px;
+  line-height: 20px;
+}
+
+.Login-input:focus {
+	outline: none;
+	border: 2px rgb(135, 188, 158) solid;
+}
+
+.Login-button {
+	margin: 30px 10px;
+	width: 100px;
+	height: 30px;
+
+	border-radius: 5px;
+}
+
+.Login-register {
+	background-color: rgb(235, 235, 235);
+	border: 2px rgb(255, 255, 255) solid;
+	color: #333;
+}
+
+.Login-submit {
+	background-color: rgb(45, 98, 68);
+	border: 2px rgb(65, 118, 88) solid;
+	color: #fff;
+}

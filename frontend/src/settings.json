@@ -1,0 +1,7 @@
+{
+	"endpoint": "http://localhost:51914",
+	"path": {
+		"register": "/api/users",
+		"login": "/api/users/login"
+	}
+}
